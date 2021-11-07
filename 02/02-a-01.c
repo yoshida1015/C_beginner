@@ -1,0 +1,14 @@
+/*
+ * 02-a-01.c
+ *
+ *  Created on: 2018/04/17
+ *      Author: ub301144
+ */
+#include <stdio.h>
+
+int main()
+{
+	printf("My First Program!");
+	return 0;
+}
+
